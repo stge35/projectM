@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d308cbbe-fc62-4ee7-9d8d-c0b7ed0febb2" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back_end/domain/user/repository/user_repository.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/front_end/domain/gui/auth/view/auth_view.py" beforeDir="false" afterPath="$PROJECT_DIR$/front_end/domain/gui/auth/view/auth_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_end/domain/user/controller/user_controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/back_end/domain/user/controller/user_controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_end/domain/user/dto/request/user_create_dto.py" beforeDir="false" afterPath="$PROJECT_DIR$/back_end/domain/user/dto/request/user_create_dto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_end/domain/user/dto/response/user_response.py" beforeDir="false" afterPath="$PROJECT_DIR$/back_end/domain/user/dto/response/user_response.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_end/domain/user/dto/user_dto.py" beforeDir="false" afterPath="$PROJECT_DIR$/back_end/domain/user/dto/user_dto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_end/domain/user/entity/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/back_end/domain/user/entity/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_end/domain/user/repository/user_interface.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_end/domain/user/service/user_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/back_end/domain/user/service/user_service.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +41,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python 테스트.test_user.py 내 Python 테스트.executor": "Run",
     "Python.auth_view.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.test_user.executor": "Run",
+    "Python.user_controller.executor": "Run",
+    "Python.user_service.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
